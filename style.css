@@ -1,0 +1,32 @@
+.zag{
+  margin-top:-50px;
+}
+.window{
+  padding:10%;
+  background-color:#c9c9c9;
+  border-radius:1%;
+  margin:10px;
+}
+.pic{
+  padding:5px;
+  background-color:#000;
+  border-radius:0.5%;
+  font-family:serif;
+  font-size:15px;
+  margin-bottom:70px;
+  margin-top:50px;
+}
+
+body{
+  background-color:#000;
+  font-family:Marker Felt, fantasy;
+}
+
+#clock {
+  color: #000;
+  font-size: 60px;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color:#c9c9c9;
+}
